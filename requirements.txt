@@ -1,0 +1,16 @@
+python-dotenv
+crawl4ai
+langchain
+langchain-openai
+langchain-community
+openai
+supabase
+tiktoken          # cheaper token counting
+pymupdf           # fast PDF text extraction
+python-docx       # DOCX loader backend
+fastapi
+uvicorn
+pytesseract            # Tesseract wrapper (Unstructured image OCR)
+openpyxl               # Excel backend used by UnstructuredExcelLoader
+python-magic-bin       # mimetype sniffing on Windows
+unstructured[local-inference]    # full Unstructured w/ image & excel extras
